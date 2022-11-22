@@ -24,7 +24,7 @@
 
 ## Git Status :chart_with_upwards_trend:
 <p align=center>
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&show_icons=true&include_all_commits=true&icon_color=FFFF00&title_color=FFFF00&text_color=FFFFFF&bg_color=20,FF0000,05FCED&border_radius=50"></a>
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=naveen-kumar-l&show_icons=true&include_all_commits=true&icon_color=FFFF00&title_color=FFFF00&text_color=FFFFFF&bg_color=20,FF0000,05FCED&border_radius=50"></a>
 </p>
 
 ### Contact ME :octocat:
