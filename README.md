@@ -6,7 +6,7 @@
 
 ## ABOUT
 <p align="center">
-<a href=https://telegram.dog/Ns_AnoNymouS ><img alt="404" width=150 src=./images/developer.png></a><br>
+<a href=https://telegram.dog/The_proGrammerr ><img alt="404" width=150 src=./images/developer.png></a><br>
 <b>Name:</b> Naveen Kumar<br>
 <b>Studing at:</b> IIIT Sri City<br>
 <b>Course:</b> CSE (Computer Science and Engineering)<br>
@@ -29,7 +29,7 @@
 
 ### Contact ME :octocat:
 <p align="center">
-<a href=https://telegram.dog/Ns_AnoNymouS><img alt=Telegram width=100 src=./images/Telegram.png></a>
+<a href=https://telegram.dog/The_proGrammerr><img alt=Telegram width=100 src=./images/Telegram.png></a>
 </p>
 
 <details><summary>Programming languages</summary>
